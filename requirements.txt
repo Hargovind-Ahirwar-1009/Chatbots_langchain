@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+bs4
+ChatPromptTemplate
+langchain_groq
+langchain-chroma
+transformers
